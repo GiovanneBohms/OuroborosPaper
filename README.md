@@ -9,14 +9,15 @@ Ouroboros é uma extensão para o cliente da Steam que automatiza completamente 
 
 ## Resultados
 
-- **Resultado com um ano de uso**:
+**Resultado com um ano de uso:**
   
 <img width="1359" height="591" alt="image" src="https://github.com/user-attachments/assets/a0cb0942-3f0b-4e90-9cc4-1fd8c759c170" />
 
 Gráfico retirado da extensão **Steam Inventory Helper**
 
+**Resultado total da conta:**
+<img width="1359" height="587" alt="image" src="https://github.com/user-attachments/assets/74e48adb-66ca-4103-ab8d-fcce4494ca0a" />
 
+**Transações que ocorrem a cada minuto na conta:**
 <img width="1203" height="614" alt="image" src="https://github.com/user-attachments/assets/0d18cfec-4dcf-45de-9c85-12ed161573c2" />
 
-
-Transações que ocorrem a cada minuto na conta
