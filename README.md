@@ -20,4 +20,6 @@ Gráfico retirado da extensão **Steam Inventory Helper**
 
 **Transações que ocorrem a cada minuto na conta:**
 <img width="1203" height="614" alt="image" src="https://github.com/user-attachments/assets/0d18cfec-4dcf-45de-9c85-12ed161573c2" />
+**Saldo total de acordo com o SIH:**
+<img width="1349" height="660" alt="image" src="https://github.com/user-attachments/assets/064fbb4b-95e0-47fd-b6d7-1fcb166f3d6c" />
 
